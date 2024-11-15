@@ -12,9 +12,13 @@ Dificultades:
 
 He tenido bastantes dificultades sobre todo con los controladores, a la hora de implementar la seguridad también i a la hora de utilizar el postman. 
 
- 
 
-Cosas que he aprendido en el bootcamp: 
+Diagrama de clase:
+
+<img width="611" alt="image" src="https://github.com/user-attachments/assets/1965fa61-03cd-40a0-b5a5-5f3461b139e6">
+
+
+ Cosas que he aprendido en el bootcamp: 
 
 Sinceramente he aprendido muchísimo, entre a este curso con ningun conocimiento de programación, solo me hice un “hola mundo” des de la terminal guiado por un video de YouTube, i espero aprender muchísimo más sobre este mundo i resolver cuestiones que aún tengo al aire. 
 
